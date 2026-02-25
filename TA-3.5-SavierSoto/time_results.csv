@@ -1,0 +1,9 @@
+Implementation,Density,Operation,TimeNS
+AdjacencyMatrix,Dense,BFS,739519500
+AdjacencyMatrix,Dense,DFS,769943800
+AdjacencyList,Dense,BFS,245287200
+AdjacencyList,Dense,DFS,702113900
+AdjacencyMatrix,Sparse,BFS,139204000
+AdjacencyMatrix,Sparse,DFS,150493500
+AdjacencyList,Sparse,BFS,45832300
+AdjacencyList,Sparse,DFS,4071700
